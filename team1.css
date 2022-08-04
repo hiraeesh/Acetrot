@@ -1,0 +1,299 @@
+.img7 img {
+    height: 100%;
+    width: 10%;
+}
+
+@media screen and (max-width: 480px) {
+    .img7 img {
+        height: 100%;
+        width: 14%;
+        text-align: center;
+    }
+}
+
+.img8 img {
+    height: 80%;
+    width: 12%;
+    margin-top: 6px;
+    margin-left: 700px;
+}
+
+@media screen and (max-width: 1300px) {
+    .img8 img {
+        height: 80%;
+        width: 12%;
+        margin-top: 6px;
+
+        margin-left: 600px;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .img8 img {
+        height: 80%;
+        width: 12%;
+        margin-top: 6px;
+
+        margin-left: 400px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .img8 img {
+        height: 80%;
+        width: 12%;
+        margin-top: 6px;
+
+        margin-left: 300px;
+    }
+}
+
+@media screen and (max-width: 491px) {
+    .img8 img {
+        height: 80%;
+        width: 15%;
+        margin-top: 6px;
+
+        margin-left: 150px;
+    }
+}
+
+@media screen and (max-width: 410px) {
+    .img8 img {
+        height: 80%;
+        width: 15%;
+        margin-top: 6px;
+
+        margin-left: 20px;
+    }
+}
+
+.img15 img {
+    height: 80%;
+    width: 12%;
+    margin-top: 6px;
+}
+
+@media screen and (max-width: 480px) {
+    .img15 img {
+        height: 50%;
+        width: 30%;
+    }
+}
+
+ul#menu li {
+    display: inline;
+}
+
+.sliderimg img {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.logo img {
+    width: 60%;
+    height: 70%;
+}
+
+@media screen and (max-width: 576px) {
+
+    .logo img {
+        width: 60%;
+        height: 50%;
+        margin-left: 20%;
+    }
+}
+
+.llogo img {
+    width: 60%;
+    height: 80%;
+}
+
+
+
+@media screen and (max-width: 767px) {
+
+    .llogo img {
+        width: 60%;
+        height: 60%;
+        margin-left: 30px;
+
+    }
+}
+
+
+
+#lastimg img {
+    margin-top: 60px;
+    background-color: red;
+    width: 60%;
+    height: 40%;
+    margin-left: 100px;
+}
+
+
+
+
+@media screen and (max-width: 1199px) {
+
+
+    #lastimg img {
+        margin-top: 60px;
+        background-color: red;
+        width: 80%;
+        height: 40%;
+        margin-left: 50px;
+    }
+}
+
+
+
+@media screen and (max-width: 991px) {
+
+
+    #lastimg img {
+        margin-top: 60px;
+        background-color: red;
+        width: 80%;
+        height: 20%;
+        margin-left: 40px;
+    }
+}
+
+
+
+
+@media screen and (max-width:767px) {
+
+
+    #lastimg img {
+        margin-top: 60px;
+        background-color: red;
+        width: 90%;
+        height: 20%;
+        margin-left: 20px;
+    }
+}
+
+
+
+#d1 {
+    width: 100%;
+    height: 150px;
+
+}
+
+
+#d2 {
+    width: 100%;
+    height: 150px;
+}
+
+
+#d3 {
+    width: 100%;
+    height: 150px;
+}
+
+
+
+
+
+ul#menuu li {
+    display: inline;
+    margin: 2px;
+}
+
+#navli {
+    padding: 0px 6px 0px 6px;
+    margin-left: 850px;
+    color: white;
+
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(31, 17, 89, 1) 0%, rgba(55, 154, 203, 1) 68%, rgba(0, 212, 255, 1) 100%);
+
+}
+
+
+
+@media screen and (max-width:1450px) {
+
+
+    #navli {
+        padding: 0px 6px 0px 6px;
+        margin-left: 750px;
+        color: white;
+
+        background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(31, 17, 89, 1) 0%, rgba(55, 154, 203, 1) 68%, rgba(0, 212, 255, 1) 100%);
+
+    }
+}
+
+
+
+@media screen and (max-width:1300px) {
+
+
+    #navli {
+        padding: 0px 6px 0px 6px;
+        margin-left: 680px;
+        color: white;
+
+        background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(31, 17, 89, 1) 0%, rgba(55, 154, 203, 1) 68%, rgba(0, 212, 255, 1) 100%);
+
+    }
+}
+
+
+
+
+
+@media screen and (max-width:1200px) {
+
+
+    #navli {
+        padding: 0px 6px 0px 6px;
+        margin-left: 630px;
+        color: white;
+
+        background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(31, 17, 89, 1) 0%, rgba(55, 154, 203, 1) 68%, rgba(0, 212, 255, 1) 100%);
+
+    }
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width:990px) {
+
+
+    #navli {
+        padding: 0px 0px 0px 0px;
+        text-align: center;
+        margin-left: 0px;
+        color: white;
+
+        background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(31, 17, 89, 1) 0%, rgba(55, 154, 203, 1) 68%, rgba(0, 212, 255, 1) 100%);
+
+    }
+}
+
+
+
+@media screen and (max-width:990px) {
+
+
+    #navlili li {
+        text-align: center;
+
+
+
+    }
+}
